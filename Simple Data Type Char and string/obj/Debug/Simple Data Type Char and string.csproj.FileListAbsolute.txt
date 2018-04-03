@@ -1,0 +1,7 @@
+C:\Users\EngMazen\source\repos\Simple Data Type Char and string\Simple Data Type Char and string\bin\Debug\Simple Data Type Char and string.exe.config
+C:\Users\EngMazen\source\repos\Simple Data Type Char and string\Simple Data Type Char and string\bin\Debug\Simple Data Type Char and string.exe
+C:\Users\EngMazen\source\repos\Simple Data Type Char and string\Simple Data Type Char and string\bin\Debug\Simple Data Type Char and string.pdb
+C:\Users\EngMazen\source\repos\Simple Data Type Char and string\Simple Data Type Char and string\obj\Debug\Simple Data Type Char and string.csprojResolveAssemblyReference.cache
+C:\Users\EngMazen\source\repos\Simple Data Type Char and string\Simple Data Type Char and string\obj\Debug\Simple Data Type Char and string.csproj.CoreCompileInputs.cache
+C:\Users\EngMazen\source\repos\Simple Data Type Char and string\Simple Data Type Char and string\obj\Debug\Simple Data Type Char and string.exe
+C:\Users\EngMazen\source\repos\Simple Data Type Char and string\Simple Data Type Char and string\obj\Debug\Simple Data Type Char and string.pdb
